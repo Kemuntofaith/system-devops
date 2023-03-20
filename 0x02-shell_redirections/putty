@@ -1,0 +1,18 @@
+total 60
+drwxr-xr-x 2 root root  298 Mar 20 01:03 .
+drwxr-xr-x 4 root root   66 Mar 20 00:39 ..
+-rwxr-xr-x 1 root root   32 Mar 20 00:39 0-hello_world
+-rwxr-xr-x 1 root root   28 Mar 20 00:39 1-confused_smiley
+-rwxr-xr-x 1 root root   28 Mar 20 00:39 2-hellofile
+-rwxr-xr-x 1 root root   39 Mar 20 00:39 3-twofiles
+-rwxr-xr-x 1 root root   29 Mar 20 00:39 4-lastlines
+-rwxr-xr-x 1 root root   29 Mar 20 00:39 5-firstlines
+-rwxr-xr-x 1 root root   36 Mar 20 00:39 6-third_line
+-rwxr--r-- 1 root root   86 Mar 20 01:00 7-file
+-rw-r--r-- 1 root root   12 Mar 20 01:00 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root    1 Mar 20 00:39 carrots
+-rw-r--r-- 1 root root  110 Mar 20 00:39 fruits
+-rw-r--r-- 1 root root   33 Mar 20 00:49 hollo_file
+-rw-r--r-- 1 root root  801 Mar 20 00:39 iacta
+-rw-r--r-- 1 root root    0 Mar 20 01:03 putty
+-rw-r--r-- 1 root root 7687 Mar 20 00:39 README.md
